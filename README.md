@@ -22,5 +22,5 @@
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=MurrayGroves&theme=react&show_icons=true&count_private=true">
 </p>
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurrayGroves&layout=compact&theme=react&count_private=true&exclude_repo=os-hackathon">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurrayGroves&layout=compact&theme=react&count_private=true&exclude_repo=os-hackathon,MurraxCoin-Faucet">
 </p>
